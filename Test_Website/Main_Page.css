@@ -33,6 +33,15 @@ body {
      margin: 15%;
  }
 
+#Space_Marines_Hostory_Main {
+    color: white;
+    background: black;
+    width: 1300px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 15%;
+}
+
 .dropbtn {
     background-color: black;
     color: white;
