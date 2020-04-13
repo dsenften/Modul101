@@ -42,6 +42,32 @@ body {
     margin-left: 15%;
 }
 
+#Space_Marines_Hirarchy_Main {
+    color: white;
+    background: black;
+    width: 1300px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 15%;
+}
+#Space_Marines_Hirarchy_Main_Part2 {
+    color: white;
+    background: black;
+    width: 1300px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 15%;
+}
+
+#Space_Marines_First_Founding_Main {
+    color: white;
+    background: black;
+    width: 1300px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 15%;
+}
+
 .dropbtn {
     background-color: black;
     color: white;
@@ -66,14 +92,6 @@ body {
     border: none;
     opacity: 0.8;
 }
-.dropbtn4 {
-    background-color: black;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    opacity: 0.8;
-}
 
 .dropdown {
     position: relative;
@@ -84,10 +102,6 @@ body {
     display: inline-block;
 }
 .dropdown3 {
-    position: relative;
-    display: inline-block;
-}
-.dropdown4 {
     position: relative;
     display: inline-block;
 }
@@ -137,21 +151,6 @@ body {
     display: block;
 }
 
-.dropdown-content4 {
-    display: none;
-    position: absolute;
-    background-color: white;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px;
-    z-index: 1;
-}
-.dropdown-content4 a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
 .dropdown-content a:hover {background-color: #ddd;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: black;}
@@ -163,10 +162,6 @@ body {
 .dropdown-content3 a:hover {background-color: #ddd;}
 .dropdown3:hover .dropdown-content3 {display: block;}
 .dropdown3:hover .dropbtn3 {background-color: black;}
-
-.dropdown-content4 a:hover {background-color: #ddd;}
-.dropdown4:hover .dropdown-content4 {display: block;}
-.dropdown4:hover .dropbtn4 {background-color: black;}
 
 #footer {
     color: white;
